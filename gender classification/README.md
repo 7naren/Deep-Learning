@@ -1,7 +1,7 @@
 
 Classification of gender using feed forward neural networks
 
-Dataset: https://www.kaggle.com/aniladepu/cat-vs-big-cats-binary-classification
+Dataset: https://github.com/umarani-jayaraman/Gender-Classification-Dataset
 
 Different different optimizers have been used to observe their effect on accuracy
 
