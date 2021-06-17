@@ -1,6 +1,6 @@
 Classification of domestic and wild cats using feed forward neural networks
 
-Dataset: https://github.com/umarani-jayaraman/Gender-Classification-Dataset
+Dataset: https://www.kaggle.com/aniladepu/cat-vs-big-cats-binary-classification
 
 Different different optimizers have been used to observe their effect on accuracy
 
